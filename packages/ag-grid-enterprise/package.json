@@ -40,6 +40,7 @@
   "homepage": "http://www.ag-grid.com/",
   "devDependencies": {
     "@types/jest": "^23.3.10",
+    "@types/node": "^12.7.2",
     "ag-grid-community": "^21.1.1",
     "css-loader": "^1.0.1",
     "gulp": "^3.9.1",
